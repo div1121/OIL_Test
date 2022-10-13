@@ -84,8 +84,9 @@ p.interactive()
 python3 solve.py
 ```
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/div1121/OIL_Test/blob/main/Control_the_flow/img1.png)
+
+![alt text](https://github.com/div1121/OIL_Test/blob/main/Control_the_flow/img2.png)
 
 Flag obtained:
 flag{th15_1s_4_gd_st4rt}
